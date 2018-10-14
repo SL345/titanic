@@ -11,7 +11,7 @@ In this challenge, we ask you to complete the analysis of what sorts of people w
 
 **Practice Skills**
 Worked on the Dataset using Python
-Steps:
+- Steps:
 1. Analysis of the dataset through Exploratory Data Analysis
   - Using Visualization extracted some useful insights like Women, Children and Pclass 1 passengers survived the most.
   
